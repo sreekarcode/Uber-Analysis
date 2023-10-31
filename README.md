@@ -29,3 +29,13 @@ Here, i took the Longitude(Lon) and Latitude(Lan) columns to use for getting the
         • What can be inferred is that, the frequency of demands are higher for longitudes between [-74.5 to -74.0] and latitude[40 to 41.2].
         
         • The minute demands are varying across latitude of [41.1 to 40.0] and longitude of [-74.5].
+
+## Challenge #4(Customer Behavior Analysis)
+
+• Here, I calculate the ride frequency of each user, using the unique ID(base) column.
+
+    • I then use the latitude and longitude values to find out the common routes taken across the map.
+    
+    • It can be inferred that 'B02617' has the highest frequency of ride count and the least frequency is 'B02512'.
+    
+    • It can also be inferred that, all the uber's have the same common route, meaning they all have the same direction sense as per the app or street knowledge. This can show increase in familiarity between drivers and since there is a common route, there can be a high level of safety between passengers.
