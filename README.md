@@ -10,3 +10,10 @@
     • distribution in hours
     • distribution in hour of the day
 • They were displayed as bar-plots for convenience.
+
+## Challenge #3(Spatial Analysis)
+Here, i took the Longitude(Lon) and Latitude(Lan) columns to use for getting the clusters.
+    • I sampled the data, and made sure to only use 10% of the data to get a better computational speed.
+    • A K-Means clustering has been performed and according to the values, clusters were plotted.
+        • What can be inferred is that, the frequency of demands are higher for longitudes between [-74.5 to -74.0] and latitude[40 to 41.2].
+        • The minute demands are varying across latitude of [41.1 to 40.0] and longitude of [-74.5].
